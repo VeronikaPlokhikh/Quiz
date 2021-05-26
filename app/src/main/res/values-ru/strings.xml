@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ВИКТОРИНА</string>
+    <string name="start">НАЧАТЬ</string>
+    <string name="back">НАЗАД</string>
+    <string name="level">УРОВЕНЬ:</string>
+    <string name="level1">УРОВЕНЬ 1</string>
+    <string name="level2">УРОВЕНЬ 2</string>
+    <string name="level3">УРОВЕНЬ 3</string>
+    <string name="level4">УРОВЕНЬ 4</string>
+    <string name="level5">УРОВЕНЬ 5</string>
+    <string name="level6">УРОВЕНЬ 6</string>
+    <string name="level7">УРОВЕНЬ 7</string>
+    <string name="level8">УРОВЕНЬ 8</string>
+    <string name="level9">УРОВЕНЬ 9</string>
+    <string name="level10">УРОВЕНЬ 10</string>
+    <string name="textcontinue">ПРОДОЛЖИТЬ:</string>
+</resources>
